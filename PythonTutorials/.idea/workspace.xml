@@ -25,7 +25,28 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.FindbyIDName">
+    <configuration name="FindbyIDName" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonTutorials" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/findingElements" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/findingElements/FindbyIDName.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="RunChromeTest" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonTutorials" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -49,6 +70,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.FindbyIDName" />
         <item itemvalue="Python.RunChromeTest" />
       </list>
     </recent_temporary>
@@ -79,26 +101,26 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1419" height="204" key="GridCell.Tab.0.bottom" timestamp="1579820051690">
+    <state width="1419" height="204" key="GridCell.Tab.0.bottom" timestamp="1579823110958">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state width="1419" height="204" key="GridCell.Tab.0.bottom/-241.-1057.1920.1057/0.23.1440.797@0.23.1440.797" timestamp="1579820051690" />
-    <state width="1419" height="204" key="GridCell.Tab.0.center" timestamp="1579820051689">
+    <state width="1419" height="204" key="GridCell.Tab.0.bottom/-241.-1057.1920.1057/0.23.1440.797@0.23.1440.797" timestamp="1579823110958" />
+    <state width="1419" height="204" key="GridCell.Tab.0.center" timestamp="1579823110957">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state width="1419" height="204" key="GridCell.Tab.0.center/-241.-1057.1920.1057/0.23.1440.797@0.23.1440.797" timestamp="1579820051689" />
-    <state width="1419" height="204" key="GridCell.Tab.0.left" timestamp="1579820051688">
+    <state width="1419" height="204" key="GridCell.Tab.0.center/-241.-1057.1920.1057/0.23.1440.797@0.23.1440.797" timestamp="1579823110957" />
+    <state width="1419" height="204" key="GridCell.Tab.0.left" timestamp="1579823110955">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state width="1419" height="204" key="GridCell.Tab.0.left/-241.-1057.1920.1057/0.23.1440.797@0.23.1440.797" timestamp="1579820051688" />
-    <state width="1419" height="204" key="GridCell.Tab.0.right" timestamp="1579820051689">
+    <state width="1419" height="204" key="GridCell.Tab.0.left/-241.-1057.1920.1057/0.23.1440.797@0.23.1440.797" timestamp="1579823110955" />
+    <state width="1419" height="204" key="GridCell.Tab.0.right" timestamp="1579823110957">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state width="1419" height="204" key="GridCell.Tab.0.right/-241.-1057.1920.1057/0.23.1440.797@0.23.1440.797" timestamp="1579820051689" />
-    <state x="229" y="60" key="SettingsEditor" timestamp="1579818625834">
+    <state width="1419" height="204" key="GridCell.Tab.0.right/-241.-1057.1920.1057/0.23.1440.797@0.23.1440.797" timestamp="1579823110957" />
+    <state x="229" y="60" key="SettingsEditor" timestamp="1579820983737">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state x="229" y="60" key="SettingsEditor/-241.-1057.1920.1057/0.23.1440.797@0.23.1440.797" timestamp="1579818625834" />
+    <state x="229" y="60" key="SettingsEditor/-241.-1057.1920.1057/0.23.1440.797@0.23.1440.797" timestamp="1579820983737" />
     <state x="376" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1579818538540">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
@@ -107,5 +129,16 @@
       <screen x="0" y="23" width="1440" height="797" />
     </state>
     <state x="385" y="144" key="search.everywhere.popup/-241.-1057.1920.1057/0.23.1440.797@0.23.1440.797" timestamp="1579820479887" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/basicWeb/RunChromeTest.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

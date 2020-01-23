@@ -19,5 +19,6 @@ ff.test()
 Firefox
 1. Install Geckodriver
 2. driver = webdriver.Firefox(executable_path = " ")
-3. 
+3. driver.get("https://www.google.com")
+
 """
