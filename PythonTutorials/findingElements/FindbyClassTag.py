@@ -1,7 +1,7 @@
 from selenium import webdriver
 import os
 
-class FindbyLinkText():
+class FindbyClassTag():
 
     def test(self):
 
@@ -11,17 +11,8 @@ class FindbyLinkText():
 
         driver.get("https://learn.letskodeit.com/p/practice")
 
-        loginText = driver.find_element_by_link_text("Login")
-
-        if loginText:
-            print ("We found a Login Text")
-
-        practicePage = driver.find_element_by_partial_link_text("Practice")
-
-        if practicePage:
-            print ("We found a link with Partial link Text")
 
 
 
-ff = FindbyLinkText()
+ff = FindbyClassTag()
 ff.test()
